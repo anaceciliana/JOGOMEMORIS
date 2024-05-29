@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JOGOMEMORIS", "JOGOMEMORIS\JOGOMEMORIS.csproj", "{2F38C452-8B3A-481F-995C-D6F5B3F7A806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F38C452-8B3A-481F-995C-D6F5B3F7A806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F38C452-8B3A-481F-995C-D6F5B3F7A806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F38C452-8B3A-481F-995C-D6F5B3F7A806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F38C452-8B3A-481F-995C-D6F5B3F7A806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B4DAB18-FCE3-48F9-926F-0BC06C32B59D}
+	EndGlobalSection
+EndGlobal
